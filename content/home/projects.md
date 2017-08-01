@@ -10,7 +10,7 @@ subtitle = ""
 widget = "projects"
 
 # Order that this section will appear in.
-weight = 50
+weight = 20
 
 # View.
 # Customize how projects are displayed.
@@ -30,8 +30,8 @@ view = 1
   tag = ".deep-learning"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Bayesian modelling"
+  tag = ".bayesian-modelling"
 
 +++
 
